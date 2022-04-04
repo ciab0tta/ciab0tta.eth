@@ -1,0 +1,17 @@
+{
+  "name": "ray-l6",
+  "version": "1.0.0",
+  "description": "ciab0tta.eth",
+  "main": "index.js",
+  "author": "ciab0tta",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "nft.storage": "^6.1.0"
+  },
+  "scripts": {
+    "build": "echo \"this is a static html file in a folder. There's nothing to build ya goof.\"",
+    "deploy": ""
+  }
+}
