@@ -12,6 +12,7 @@
   },
   "scripts": {
     "build": "echo \"this is a static html file in a folder. There's nothing to build ya goof.\"",
-    "deploy": ""
+    "package": "ipfs-car --pack ./public --wrapWithDirectory false --output output.car",
+    "deploy": "node ./deploy.js"
   }
 }
